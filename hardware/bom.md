@@ -1,3 +1,7 @@
+Shared cart link for digikey:
+
+http://www.digikey.com/short/jmm4tf
+
 | Index | Quantity | Part Number | Description | Unit Price | Extended Price |
 |-------|----------|-------------|-------------|------------|----------------|
 |   1   |    1     | LT1932ES6   | LED DRIVER  |   $4.28    |   $4.28        |
