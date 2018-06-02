@@ -1,0 +1,15 @@
+### Module positions - created on 06/01/18 15:54:07 ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                PosX       PosY       Rot  Side
+C1        4.7uF       C_0805             150.6200  -114.5100  270.0000  top
+C2        4.7uF       C_0805             147.8000  -114.6000  270.0000  top
+D1        D_Schottky  D_SOD-323          144.1700  -115.4400  180.0000  top
+D2        LED         LED_0603           147.7900  -111.0800  270.0000  top
+L1        4.7uH       L_0805             150.3500  -110.9100  270.0000  top
+R1        4.53K       R_0805             149.8700  -106.2700   90.0000  top
+R2        4.53K       R_0805             147.5200  -106.2400  270.0000  top
+U1        LT1932ES6   TSOT-23-6          144.2500  -112.1300    0.0000  top
+U2        ATTINY10    SOT-23-6           144.1100  -106.6400    0.0000  top
+## End
